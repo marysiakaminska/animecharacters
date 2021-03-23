@@ -12,6 +12,7 @@
         < ul >
             < li > shinji </ li >
             < li > kaworu </ li >
+	    <li> chce umrzec </li>
 			< li > zal </li>
         </ ul >
         
