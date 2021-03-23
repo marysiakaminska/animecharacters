@@ -1,21 +1,8 @@
 # animecharacters
 <! DOCTYPE html >
 < html >
-    < głowa >
-    < meta  charset = " utf-8 " >
-        < title > kaworunagisa </ title >
-        < styl >
-        body {
-        rozmiar czcionki :  12 pikseli ;
-        rodzina czcionek : fantasy;
-        }
-        ul {
-        styl czcionki  :  kursywa ;
-        kolor :  czarny ;
-        }
-        
-        </ style >
-        
+    < head >
+        < title > kaworunagisa </ title >  
     </ head >
     < body >
         
