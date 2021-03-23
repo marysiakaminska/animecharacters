@@ -1,5 +1,4 @@
 # animecharacters
-# animecharacters
 <! DOCTYPE html >
 < html >
     < head >
