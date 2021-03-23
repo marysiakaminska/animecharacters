@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # animecharacters
-umrzec
-=======
 # animecharacters
 <! DOCTYPE html >
 < html >
@@ -16,11 +13,9 @@ umrzec
         < ul >
             < li > shinji </ li >
             < li > kaworu </ li >
-	    <li> chce umrzec </li>
 			< li > zal </li>
         </ ul >
         
-        
-    </ body >
+
+            </ body >
  </ html >
->>>>>>> 9c90d6ee166185d151221f6f5601dfc2dc0a6e8d
